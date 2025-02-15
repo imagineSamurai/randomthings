@@ -18,3 +18,6 @@ Last updated: 2025-02-15 20:16:38
 
 -> Added new features ->
 Last updated: 2025-02-15 17:19:23
+
+|| Updated documentation ||
+Last updated: 2025-02-15 17:20:31
